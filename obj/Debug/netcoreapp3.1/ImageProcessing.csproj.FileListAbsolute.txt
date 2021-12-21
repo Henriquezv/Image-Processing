@@ -1,0 +1,15 @@
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.exe
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.runtimeconfig.dev.json
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.dll
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\bin\Debug\netcoreapp3.1\ImageProcessing.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.Form1.resources
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.dll
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\C#\ImageProcessing\ImageProcessing\obj\Debug\netcoreapp3.1\ImageProcessing.genruntimeconfig.cache
